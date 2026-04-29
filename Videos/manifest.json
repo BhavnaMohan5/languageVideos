@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "identifier": "TestVideo",
+      "url": "https://raw.githubusercontent.com/BhavnaMohan5/languageVideos/main/Videos/TestVideo.mp4",
+      "size": 15317528
+    }
+  ]
+}
